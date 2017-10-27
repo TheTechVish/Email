@@ -2,7 +2,6 @@
 `
 Scenario: So one of my authors had great experience, but he was busy and was tensed of being a 1st time author. So to convince him I wrote this email. I am not sure if this is my best email so far but this worked.`
 
-
 Hi XYZ,
 
 I hope you are enjoying the rain!
@@ -16,4 +15,3 @@ We also understand that all our authors are busy working people and they still w
 Let me know when can we start the project discussion 
 
 Best Regards,
-
