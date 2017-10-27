@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome!!!
 
-You can use the [editor on GitHub](https://github.com/TheTechVish/Email/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+`Scenario: So one of my authors had great experience, but he was busy and was tensed of being a 1st time author. So to convince him I wrote this email. I am not sure if this is my best email so far but this worked.`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Hi XYZ,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I hope you are enjoying the rain!
 
-### Jekyll Themes
+Appreciate your prompt response. I am glad to know that you are interested in knowing more about this project. I will share all the details on your email address. Please have a look into it and let me know if that looks good to proceed.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheTechVish/Email/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Also, many of our authors are 1st time authors. They have immense technical knowledge but they cannot convert that into publishing material. That's where we help our authors. As a publishing house we have a dedicated team of editors who work with the authors to transform their content into publishing material.
 
-### Support or Contact
+We also understand that all our authors are busy working people and they still want to share their knowledge with the community what they got from the community but the problem what they face is time issues and converting technical things in to reader friendly material that's where we come into the picture. The internal stakeholders (Editors) of the project will help you in every step and will make sure the book makes great success in the market. So don't worry.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Let me know when can we start the project discussion 
+
+Best Regards,
+```
